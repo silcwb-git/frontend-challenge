@@ -2,7 +2,7 @@
 App desenvolvido usando React e Redux.
 
 # Execução
-npm install
-npm run dev
+- npm install
+- npm run dev
 
 
