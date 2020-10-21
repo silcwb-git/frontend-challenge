@@ -1,4 +1,4 @@
-# Pokedex List
+# Pokédex List
 App desenvolvido usando React e Redux.
 
 # Execução
